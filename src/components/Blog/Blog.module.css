@@ -1,0 +1,14 @@
+.blog {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 50px;
+    min-height: 100vh;
+}
+
+.container {
+    display: flex;
+}
