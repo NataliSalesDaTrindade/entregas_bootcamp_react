@@ -1,0 +1,27 @@
+.card {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .preco {
+    font-size: 1.2rem;
+    margin-bottom: 8px;
+  }
+  
+  .precoComDesconto {
+    font-weight: bold;
+    color: #007bff;
+  }
+  
+  .precoOriginal {
+    margin-left: 10px;
+    text-decoration: line-through;
+    color: #6c757d;
+  }
+  
+  .desconto {
+    color: #28a745;
+  }
+  
